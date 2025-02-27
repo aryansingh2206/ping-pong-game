@@ -2,7 +2,7 @@
 
 A **classic Pong game** built with **HTML Canvas and JavaScript**, featuring smooth gameplay, paddle controls, and simple physics.  
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/92f362e9-25ba-4fed-b213-3af7804c52d0)
 
 
 ## ✨ Features  
